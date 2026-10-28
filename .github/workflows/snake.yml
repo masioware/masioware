@@ -24,17 +24,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
-# Note 2026-10-15: reviewed workflow configuration
-# Note 2026-10-16: reviewed workflow configuration
-# Note 2026-10-17: reviewed workflow configuration
-# Note 2026-10-18: reviewed workflow configuration
-# Note 2026-10-19: reviewed workflow configuration
-# Note 2026-10-20: reviewed workflow configuration
-# Note 2026-10-21: reviewed workflow configuration
-# Note 2026-10-22: reviewed workflow configuration
-# Note 2026-10-23: reviewed workflow configuration
-# Note 2026-10-24: reviewed workflow configuration
-# Note 2026-10-25: reviewed workflow configuration
-# Note 2026-10-26: reviewed workflow configuration
-# Note 2026-10-27: reviewed workflow configuration
-# Note 2026-10-28: reviewed workflow configuration
